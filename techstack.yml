@@ -1,0 +1,30 @@
+repo_name: aldoyh/obsidian-theme-starter
+report_id: ba06823d2157ace4dc62298cccc5d8de
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-10T18:22:04+00:00'
+requested_by: aldoyh
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/aldoyh/obsidian-theme-starter
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aldoyh/obsidian-theme-starter
+  detection_source: Repo Metadata
